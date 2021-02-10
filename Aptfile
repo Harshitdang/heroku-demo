@@ -4,3 +4,7 @@ libxrender1
 libxext6
 libGL.so.1
 zlib1g:i386
+libc6-i386
+lib32stdc++6
+lib32gcc1
+lib32ncurses5
